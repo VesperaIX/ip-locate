@@ -5,7 +5,7 @@
 Simple IP Tracker Tool
 
 # Instalation
-`$ git clone https://github.com/ZeroSaturnn/ip-locate && cd ip-locate`<br>
+`$ git clone https://github.com/VesperaIX/ip-locate && cd ip-locate`<br>
 `$ pip3 install requests argparse`
 
 # Usage
@@ -20,5 +20,5 @@ Regards,
 Zerosaturnn
 
 **Author:**
-- **Zerosaturnn**
-- **Discord: zerosaturn_**
+- **VesperaIX**
+- **Discord: VesperaIX**
